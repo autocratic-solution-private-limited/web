@@ -970,9 +970,7 @@ section.certiSec {
     list-style: disc;
     margin-bottom: 10px;
 }
-.seedblinkBox.pro {
-    /* border: 2px solid var(--primary); */
-}
+
 .seedblinkBox a {
     text-align: center;
     background: #031634;
@@ -985,9 +983,6 @@ section.certiSec {
     color: #fff;
     border-radius: 50px;
     margin-top: 30px;
-}
-.seedblinkBox.pro h4 {
-    /* background: var(--primary); */
 }
 
 
