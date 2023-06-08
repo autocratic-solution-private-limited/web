@@ -822,6 +822,7 @@ section.certiSec {
     display: flex;
     column-gap: 30px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .certificateBox ul {
