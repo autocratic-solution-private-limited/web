@@ -113,7 +113,7 @@ button.navbar-toggler {
 
 @media all and (max-width: 992px) {
     .NavbarMainClass .offcanvas-header {
-        display: block;
+        /* display: block; */
     }
 
     .NavbarMainClass.mobile-offcanvas {
